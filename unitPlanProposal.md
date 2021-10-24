@@ -5,6 +5,6 @@ Directions: Your unit plan draft proposal should have the following parts:
 
 #Unit plan
 ##High Level description
-###Have students create an emulation of an app they use using react native
-###react native can be used to create interactive webpages, android apps, and ios apps. I believe this will be a valuable skill for students to have in the workforce and if students ever want to bring an app to life.
-###I want to cover this either right before the AP CSP portfolio as a way for students to make interactive, beautiful apps for their portfolio. Depending on time, I may want to cover this after the portfolio as an extension of javascript since vanilla javascript is just a scratch on the surface. 
+Teach students objects using Javascript and introduce Bootstrap
+##Goal
+Many students in my class take AP CSA afterward and I think this introduction would be helpful for them to encounter. We are already using dot notation to use objects and their functions. I feel this would clarify some of the reasons why we do what we do. I also want to start incorporating some of the bootstrap elements to help students create beautiful websites. 
