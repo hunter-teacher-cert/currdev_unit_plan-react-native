@@ -25,7 +25,10 @@ Atom and browser for observing and troubleshooting websites. Students can use an
 ---
 
 ## Resources
-(include any links/books/readings to be used during this unit)
+* html elements: https://www.w3schools.com/html/html_elements.asp
+* bootstrap: https://getbootstrap.com/docs/5.1/getting-started/introduction/
+* JS: https://www.w3schools.com/js/default.asp
+* personal slide show adapted from Code.org 
 
 ---
 
