@@ -28,7 +28,7 @@ Atom and browser for observing and troubleshooting websites. Students can use an
 * html elements: https://www.w3schools.com/html/html_elements.asp
 * bootstrap: https://getbootstrap.com/docs/5.1/getting-started/introduction/
 * JS: https://www.w3schools.com/js/default.asp
-* personal slide show adapted from Code.org 
+* personal slide show adapted from Code.org
 
 ---
 
@@ -37,8 +37,8 @@ Total length: 2 Weeks
 * Lesson 0: Introduction to objects, spotting objects in real life, working with objects in JS. HW: come up with an object with attributes from your life. List of options for students to choose from
 * Lesson 1: Writing your example from HW in JS code, coming up with a toString() function, add object function, getAttribute() functions, setAttribute() function. HW: finish what was started in class
 * Lesson 2: Quiz, Introduce project, have students brain storm what they'd like to work on. Fill out a worksheet dealing with what kind of attributes they want they would like to include
-* Lesson 3: Work on project, share out progress with partners, troubleshoot.
-* Lesson 4: Continue to work on project. Present on what they have thus far. Turn in by next class
+* Lesson 3: Introduce BootStrap tools Work on project, share out progress with partners, troubleshoot.
+* Lesson 4: Introduce bootstrap part 2 Continue to work on project. Present on what they have thus far. Turn in by next class
 
 
 ---
