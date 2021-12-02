@@ -34,7 +34,7 @@ Atom and browser for observing and troubleshooting websites. Students can use an
 
 ## Lessons
 Total length: 2 Weeks
-* Lesson 0: Introduction to objects, spotting objects in real life, working with objects in JS. HW: come up with an object with attributes from your life. List of options for students to choose from
+* Lesson 0: Introduction to objects, spotting objects in real life, working with objects in JS. Examples will delve into functions as well. HW: come up with an object with attributes from your life. List of options for students to choose from
 * Lesson 1: Writing your example from HW in JS code, coming up with a toString() function, add object function, getAttribute() functions, setAttribute() function. HW: finish what was started in class
 * Lesson 2: Quiz, Introduce project, have students brain storm what they'd like to work on. Fill out a worksheet dealing with what kind of attributes they want they would like to include
 * Lesson 3: Introduce BootStrap tools Work on project, share out progress with partners, troubleshoot.
