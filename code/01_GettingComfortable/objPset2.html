@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <title></title>
+  </head>
+  <body>
+This Object Problem Set requires you to work with HTML Elements
+<h1>Recipe Objects</h1>
+<label for="">Name:</label>
+<input type="text" id="name" value="">
+<label for="">Ingredients List (separated by commas)</label>
+<input type="text" id="ingredients" value="">
+<label for="">Prep Time</label>
+<input type="text" id="time" value="">
+<button type="button" onclick="enter()"></button>
+<p id="showRecipe"></p>
+<script type="text/javascript">
+/*Problem 1:build a function that can "read in"
+the inputs and make a "recipe card" object out of it.
+*/
+function newRecipe(){
+  var n= document.getElementById(" ").value;
+  //your code here
+  //your code here
+  var result = {
+    //your code here
+  }
+  return result;
+}
+
+/*Problem 2: create a function that takes in a Recipe
+object and returns a String with the following format
+Recipe requires ____ (ingredients) and takes ____  long to cook
+*/
+function toStringRecipe(recipe){
+  var result = ""
+  //your code here
+  return result;
+}
+
+/*Problem 3: Create a function that can utilize the
+newRecipe() and toStringRecipe()
+*/
+function enter(){
+  //use the newRecipe()
+  //use the object from newRecipe and pass it to toStringRecipe
+  //use the addText() to display in html
+}
+//don't touch this function
+function addText(text){
+  var node = document.createElement("P");
+  var textnode = document.createTextNode(text);
+  node.appendChild(textnode);
+  document.getElementById("showRecipe").appendChild(node);
+}
+</script>
+  </body>
+</html>

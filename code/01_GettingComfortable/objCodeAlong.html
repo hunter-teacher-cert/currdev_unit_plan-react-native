@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Object Code Alongs</title>
+  </head>
+  <body>
+  </body>
+  <script type="text/javascript">
+
+  var student = {
+    lastname: "Kim",
+    firstname: "Jiyoon",
+    grade: 21,
+    schedule:["AP CSP", "AP Chem", "Core Chem"],
+    getFullName: function(){
+      return this.firstname + " " + this.lastname;
+    }
+  }
+  //or
+  function getFullName2(obj){
+    return obj.firstname + " " + obj.lastname
+  }
+//uses of the following two functions are different.
+//first one is used like this: student.getFullName()
+//second is used like this: getFullName(student)
+//need to be able to do both
+
+
+  var phone = {
+    os: "android",
+    model:"samsung s20",
+    camera:"12mp",
+    battery:"4000mAh",
+    getModelName:function(){
+      return this.model;
+    }
+  }
+
+
+  </script>
+</html>
